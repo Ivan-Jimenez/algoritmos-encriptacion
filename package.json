@@ -1,0 +1,14 @@
+{
+  "name": "algoritmos-encriptacion",
+  "version": "1.0.0",
+  "description": "Algoritmos de encriptación AES y RSA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Ivan Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
